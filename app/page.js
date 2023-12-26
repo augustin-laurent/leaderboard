@@ -4,7 +4,6 @@ import { Footer } from '@/components/Footer';
 import { TFT } from '@/components/TFT';
 import { Arena } from '@/components/Arena';
 import { Navbar } from '@/components/Navbar';
-import Link from 'next/link';
 
 export default function Home() {
 
